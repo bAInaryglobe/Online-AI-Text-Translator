@@ -2,6 +2,9 @@
 
 The Online AI Text Translator project is an application that uses **Python Flask and Azure Cognitive Services (Translator)** to provide a user-friendly interface for translating text between multiple languages. This application is built using Flask, a popular Python web framework, and Microsoft Azure's Cognitive Services, a suite of machine learning-based tools that enable developers to add intelligence to applications.
 
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/243bf03c-adbd-47bd-af84-958451decf1b)
+
+
 ## Objective
 The primary objective of this project is to create a web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.
 
