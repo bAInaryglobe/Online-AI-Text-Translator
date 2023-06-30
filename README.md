@@ -10,9 +10,10 @@ The application's architecture consists of two primary components: the front-end
 
 To use Azure Cognitive Services, you need to create a Cognitive Services account, configure the API key, and set up the Flask application to communicate with the Translation API. Once the server is configured, the application can start accepting translation requests from the user and return the translated text to the user interface.
 
+## Benefit
+The Online AI Text Translator project is a useful tool for anyone who needs to communicate in different languages and can be deployed as a web application accessible from any device with internet access. This application can also be extended to support additional features such as speech-to-text and text-to-speech functionality.
+
+
 ## Website Interface
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/243bf03c-adbd-47bd-af84-958451decf1b)
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/2f970ba4-2af1-46de-82ca-0ac2630e79f7)
-
-## Benefit
-The Online AI Text Translator project is a useful tool for anyone who needs to communicate in different languages and can be deployed as a web application accessible from any device with internet access. This application can also be extended to support additional features such as speech-to-text and text-to-speech functionality.
