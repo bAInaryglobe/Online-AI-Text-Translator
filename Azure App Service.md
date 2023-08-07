@@ -2,7 +2,7 @@
 From your source code to worldwide availability, Azure Apps addresses the difficult difficulties. While you concentrate on designing your project, Azure Apps creates and hosts it using GitHub or Azure DevOps.
 
 Azure App Service is a fully-managed platform by Microsoft that simplifies web app deployment and management. It supports multiple programming languages, offers automatic scaling for high traffic, and integrates smoothly with other Azure services. With easy deployment, continuous integration, and robust security features, developers can focus on creating exceptional web experiences while Azure takes care of the infrastructure and maintenance aspects. It's a launchpad for developers to bring their web projects to life with speed, reliability, and scalability—all in one place! 🚀
-The **Azure Apps or Azure Static Web App** approach is that you get exactly what you need, nothing more, nothing less.
+The **Azure Apps** approach is that you get exactly what you need, nothing more, nothing less.
 
 Azure App Service is like having your own personal launchpad for your web projects. It's a fully-managed platform provided by Microsoft that takes care of all the complex stuff, so you can focus on creating amazing experiences for your users.
 
