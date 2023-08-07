@@ -40,3 +40,44 @@ Next, open Azure portal by going on **https://azure.com/**.
 
 ` Note: If you don't have Azure free subscription, you can get free subscription by going on https://azure.microsoft.com/en-us/free/students from there you get 100$ credits`
 
+1. Search for **Azure App Service** using searchbar.
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/31b8c995-f06b-4f5c-93ef-edeba7252421)
+
+2. After clicking on it, you will see three options:
+- Web App
+- Static Web App
+- Web App + Database
+
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/62310059-fec7-47ef-9d6f-241f4adffc7b)
+
+3. Click on Web App as we're using another Azure service that is **Translator app service** in our web application.
+4. Then it will ask about your project (web app) details.
+- Select the subscription.
+- Create new Resource group if don't created one before.
+- Give a name to your web app.
+- It ask for publish detail `select code` <br>
+``` Note: If we migrating our static web app to web app then we select static web app ```.
+- Then select runtime stack in our case it is **Python 3.11**.
+- Then operating system, leave it default.
+- Then select the region (While selecting region select the nearest region to your country).
+- Then it ask for pricing plan `select Basic B1` pricing plan.
+- Click on next deployment button after adding all the details.
+  ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/d15c912f-1870-45f4-94a0-8076d94f91b1)
+- Enable GitHub actions for continous development.
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/2413dd73-636f-4053-b548-24b5212f594d)
+- Then add your GitHub repo detail that you created for your web app.
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/ea442cd2-87fb-4e22-b5c2-a00c80263185)
+- Then click on Review + create button. It is optional to edit network and monitor details in our case we don't need it.
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/55213b86-6320-4e02-b952-69226c77177c)
+- Review all the details you added and click on **create** button.
+
+It will take seconds in deploying your website. Then your website will be successfully deployed. You can see default domain, click on it. You see the website is hosted on Azure App Service.
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/d8d5f928-d11b-4e00-9f93-01fc17ab2dce)
+
+
+### Note: If you want to host your static app which is build using framework then follow this [Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?wt.mc_id=studentamb_202028)
+
+## Resource
+Learn more about [Azure Apps Service](https://learn.microsoft.com/en-us/azure/app-service?wt.mc_id=studentamb_202028)
+Learn more Create & deploy [Azure Apps Service](https://learn.microsoft.com/en-us/shows/azure-demo-series/create-deploy-app-services?wt.mc_id=studentamb_202028)
+Learn about [Azure Static Web App Service](https://learn.microsoft.com/en-us/azure/static-web-apps?wt.mc_id=studentamb_202028)
