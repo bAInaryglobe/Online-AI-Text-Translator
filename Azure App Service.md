@@ -34,5 +34,9 @@ Before you can deploy the app to Azure, you need to build it.
 - Create a repository for your app on GitHub.
 - Run the app locally and view it via a browser.
 
-With the copy created locally, you’re all set to start working on your code and site. Now you’ll explore how to deploy your site to the cloud. You’ll use Azure Apps to host your site. Using Azure Apps Service will allow you to quickly post your web site to the world. You can explore more [Azure Tips and Tricks: Static Web Apps](https://learn.microsoft.com/en-us/shows/azure/app-service?wt.mc_id=studentamb_202028) to learn more. 
+With the copy created locally, you’re all set to start working on your code and site. Now you’ll explore how to deploy your site to the cloud. You’ll use Azure Apps to host your site. Using Azure Apps Service will allow you to quickly post your web site to the world. You can explore more [Azure Tips and Tricks: Web Apps Service](https://learn.microsoft.com/en-us/shows/azure/app-service?wt.mc_id=studentamb_202028) to learn more. 
+
+Next, open Azure portal by going on **https://azure.com/**.
+
+` Note: If you don't have Azure free subscription, you can get free subscription by going on https://azure.microsoft.com/en-us/free/students from there you get 100$ credits`
 
