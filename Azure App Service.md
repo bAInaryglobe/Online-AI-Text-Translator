@@ -82,6 +82,6 @@ You see the website is hosted on Azure App Service.
 ### Note: If you want to host your static app which is build using framework then follow this [Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?wt.mc_id=studentamb_202028)
 
 ## Resource
-Learn more about [Azure Apps Service](https://learn.microsoft.com/en-us/azure/app-service?wt.mc_id=studentamb_202028)
-Learn more Create & deploy [Azure Apps Service](https://learn.microsoft.com/en-us/shows/azure-demo-series/create-deploy-app-services?wt.mc_id=studentamb_202028)
-Learn about [Azure Static Web App Service](https://learn.microsoft.com/en-us/azure/static-web-apps?wt.mc_id=studentamb_202028)
+- Learn more about [Azure Apps Service](https://learn.microsoft.com/en-us/azure/app-service?wt.mc_id=studentamb_202028)
+- Learn more Create & deploy [Azure Apps Service](https://learn.microsoft.com/en-us/shows/azure-demo-series/create-deploy-app-services?wt.mc_id=studentamb_202028)
+- Learn about [Azure Static Web App Service](https://learn.microsoft.com/en-us/azure/static-web-apps?wt.mc_id=studentamb_202028)
