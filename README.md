@@ -17,3 +17,35 @@ The Online AI Text Translator project is a useful tool for anyone who needs to c
 ## Website Interface
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/243bf03c-adbd-47bd-af84-958451decf1b)
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/2f970ba4-2af1-46de-82ca-0ac2630e79f7)
+
+## Visit Website:
+
+You can try the website at [Online AI Text Translator](online-text-translator.azurewebsites.net/)
+
+# Code Of Conduct 📜
+
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/samipak458/Online-AI-Text-Translator/blob/main/CODE_OF_CONDUCT.md).
+
+# Contribution is fun! ✌🏼
+
+If you have any feedback or suggestions please reach out to me.
+
+In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions [Contributing Guidelines](https://github.com/samipak458/Online-AI-Text-Translator/blob/main/CONTRIBUTING.md)!
+
+You can create a <a href="https://github.com/samipak458/Online-AI-Text-Translator/issues">issue</a> and mention there , which new features or extension can make this Project more good.
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+  
+<br>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
+
+<div align="center">
+
+### Show some ❤️ by starring⭐ this awesome Repository!
+
+</div>
+  
+<br>
