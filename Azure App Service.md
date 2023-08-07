@@ -71,8 +71,12 @@ Next, open Azure portal by going on **https://azure.com/**.
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/55213b86-6320-4e02-b952-69226c77177c)
 - Review all the details you added and click on **create** button.
 
-It will take seconds in deploying your website. Then your website will be successfully deployed. You can see default domain, click on it. You see the website is hosted on Azure App Service.
+It will take seconds in deploying your website. Then your website will be successfully deployed. You can see default domain (https://online-text-translator.azurewebsites.net/), click on it. 
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/d8d5f928-d11b-4e00-9f93-01fc17ab2dce)
+
+You see the website is hosted on Azure App Service.
+![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/cf83e728-9a21-44b4-a5e3-74507ece5785)
+
 
 
 ### Note: If you want to host your static app which is build using framework then follow this [Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?wt.mc_id=studentamb_202028)
