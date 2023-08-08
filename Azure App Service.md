@@ -62,7 +62,7 @@ Next, open Azure portal by going on **https://azure.com/**.
 - Then it ask for pricing plan `select Basic B1` pricing plan.
 - Click on next deployment button after adding all the details.
   ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/d15c912f-1870-45f4-94a0-8076d94f91b1)
-- Enable GitHub actions for continous development.
+- Enable GitHub actions for continuous development.
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/2413dd73-636f-4053-b548-24b5212f594d)
 - Then add your GitHub repo detail that you created for your web app.
 ![image](https://github.com/samipak458/Online-AI-Text-Translator/assets/52650290/ea442cd2-87fb-4e22-b5c2-a00c80263185)
